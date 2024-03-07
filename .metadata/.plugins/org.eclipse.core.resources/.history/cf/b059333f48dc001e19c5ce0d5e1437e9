@@ -1,0 +1,29 @@
+package com;
+
+import java.util.Iterator;
+
+public class Tutorial2 {
+
+	public Tutorial2() {
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	public static void main(String[] args) {
+		
+		//this is programming about finding max and min
+		
+		int [] arr = {5,3,4,7,9};
+		int max = arr[0];
+		
+		for (int i = 0; i < arr.length-1; i++) {
+			
+			if(max> arr[i]) {
+				
+				 max = arr[i];
+			}
+		}
+		
+	}
+	
+}
