@@ -1,0 +1,17 @@
+package com;
+
+public class Tutorial4 {
+
+	public Tutorial4() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		System.out.println("sanskirti singh");
+		
+	}
+	
+	
+	
+}
