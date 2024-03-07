@@ -1,0 +1,15 @@
+package com;
+
+public class Sanskirti1 {
+
+	public Sanskirti1() {
+	}
+
+	public static void main(String[] args) {
+		
+		System.out.println("Sanskiriti Singh");
+		
+
+	}
+
+}

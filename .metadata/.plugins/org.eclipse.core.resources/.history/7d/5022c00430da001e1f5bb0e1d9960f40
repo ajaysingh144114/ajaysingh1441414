@@ -1,0 +1,21 @@
+package com;
+
+import java.util.*;
+
+public class Game {
+
+	public static void main(String[] args) {
+		
+
+		
+		double x = 679;
+		
+		double y = 345;
+		
+		double Total = x + y;
+		
+		System.out.println(Total);
+		
+	}
+
+}

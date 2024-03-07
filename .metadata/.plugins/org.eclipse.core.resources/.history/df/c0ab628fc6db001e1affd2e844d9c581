@@ -1,0 +1,27 @@
+package com;
+
+import java.util.*;
+
+public class Sanskirti1 {
+
+	public Sanskirti1() {
+	}
+
+	public static void main(String[] args) {
+		
+		int x = 1;
+		
+		
+		while(x < 5) {
+			
+			System.out.println(x);
+			
+			x++;
+			
+		}
+				
+				
+
+	}
+
+}

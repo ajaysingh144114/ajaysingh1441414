@@ -1,0 +1,17 @@
+package com;
+
+import java.util.*;
+
+public class Game {
+
+	public static void main(String[] args) {
+		
+		double t=456;
+		double y=789;
+		double total=t+y;
+		System.out.println(total);         
+		
+		
+	}
+
+}

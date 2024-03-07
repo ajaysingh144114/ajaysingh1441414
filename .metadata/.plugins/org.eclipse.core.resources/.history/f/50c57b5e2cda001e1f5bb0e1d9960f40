@@ -1,0 +1,23 @@
+package com;
+
+import java.util.*;
+
+public class Game {
+
+	public static void main(String[] args) {
+		
+
+		System.out.println("mynameisajay");
+		
+		int number =6;
+		
+		while(number > 0) {
+			
+			System.out.println("hello sanskirti");
+		}
+		
+		
+	
+	}
+
+}
