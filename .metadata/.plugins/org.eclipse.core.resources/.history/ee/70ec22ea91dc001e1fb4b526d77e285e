@@ -1,0 +1,30 @@
+package com;
+
+public class Tutorial5 {
+
+	public static void happyNumber(int x) {
+		
+		double num = x;
+		double digit = 0;
+		while(num >0) {
+			
+			double rem = num % 10;
+			
+			 digit = Math.pow(rem, 2);
+			
+			System.out.println(digit);
+			num /=10;
+			
+			
+	}
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+	
+	happyNumber(13);
+	}
+
+}

@@ -22,7 +22,7 @@ public class Tutorial4 {
 			
 			if(Character.isUpperCase(letter)) {
 				
-				empty+=Character.toLowerCase(letter);
+				empty= empty + Character.toLowerCase(letter);
 			}
 			else {
 				

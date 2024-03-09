@@ -1,0 +1,9 @@
+package com;
+
+public class Sanskirti2 {
+
+	
+System.out.println("hello world");
+	
+
+}
